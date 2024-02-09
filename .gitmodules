@@ -1,0 +1,4 @@
+[submodule "src"]
+	path = src
+	url = https://github.com/nikola-haralamov/elando-website.git
+    branch = laravel-vue
